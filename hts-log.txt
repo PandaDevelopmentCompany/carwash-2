@@ -1,0 +1,60 @@
+HTTrack3.49-2 launched on Fri, 19 Aug 2022 11:24:56 at http://car-wash.leftma7t.beget.tech +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://car-wash.leftma7t.beget.tech -O "/Users/aleksandr/websites/car-wash" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:25:00	Warning: 	Note: due to car-wash.leftma7t.beget.tech remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+11:27:19	Warning: 	Note: due to stats.wp.com remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+11:27:19	Warning: 	Moved Permanently for stats.wp.com/
+11:27:19	Warning: 	File has moved from stats.wp.com/ to https://wordpress.com/
+11:27:21	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from car-wash.leftma7t.beget.tech/)
+11:27:23	Warning: 	Link s.w.org/ not scanned (follow robots meta tag)
+11:28:13	Warning: 	Retry after error -4 (Incorrect length (1446744 Bytes, 1456202 expected)) at link car-wash.leftma7t.beget.tech/wp-json/ (from car-wash.leftma7t.beget.tech/)
+11:28:13	Error: 	"Not Allowed" (405) at link car-wash.leftma7t.beget.tech/xmlrpc.php?rsd (from car-wash.leftma7t.beget.tech/)
+11:29:36	Warning: 	Moved Permanently for car-wash.leftma7t.beget.tech/?p=9
+11:29:36	Warning: 	File has moved from car-wash.leftma7t.beget.tech/?p=9 to http://car-wash.leftma7t.beget.tech/about-us/
+11:29:36	Warning: 	Retry after error -4 (No data (connection closed)) at link car-wash.leftma7t.beget.tech/wp-json/wp/v2/pages/11 (from car-wash.leftma7t.beget.tech/services/)
+11:29:36	Warning: 	Moved Permanently for car-wash.leftma7t.beget.tech/?p=11
+11:29:36	Warning: 	File has moved from car-wash.leftma7t.beget.tech/?p=11 to http://car-wash.leftma7t.beget.tech/services/
+11:29:36	Warning: 	Moved Permanently for car-wash.leftma7t.beget.tech/?p=13
+11:29:36	Warning: 	File has moved from car-wash.leftma7t.beget.tech/?p=13 to http://car-wash.leftma7t.beget.tech/works/
+11:29:36	Warning: 	Moved Permanently for car-wash.leftma7t.beget.tech/?p=15
+11:29:36	Warning: 	File has moved from car-wash.leftma7t.beget.tech/?p=15 to http://car-wash.leftma7t.beget.tech/contact/
+11:32:57	Warning: 	HTML file (1991 bytes) retransferred due to lack of cache: car-wash.leftma7t.beget.tech/feed/
+11:32:57	Warning: 	HTML file (901 bytes) retransferred due to lack of cache: car-wash.leftma7t.beget.tech/comments/feed/
+11:33:03	Warning: 	HTML file (2552325 bytes) retransferred due to lack of cache: car-wash.leftma7t.beget.tech/wp-json/
+11:37:19	Warning: 	Retry after error -4 (Interrupted transfer) at link car-wash.leftma7t.beget.tech/wp-json/ (from car-wash.leftma7t.beget.tech/)
+11:37:19	Warning: 	HTML file (167 bytes) retransferred due to lack of cache: car-wash.leftma7t.beget.tech/xmlrpc.php?rsd
+11:37:20	Error: 	"Not Allowed" (405) at link car-wash.leftma7t.beget.tech/xmlrpc.php?rsd (from car-wash.leftma7t.beget.tech/)
+11:37:47	Warning: 	HTML file (787 bytes) retransferred due to lack of cache: car-wash.leftma7t.beget.tech/?p=9
+11:37:49	Warning: 	Moved Permanently for car-wash.leftma7t.beget.tech/?p=9
+11:37:49	Warning: 	File has moved from car-wash.leftma7t.beget.tech/?p=9 to http://car-wash.leftma7t.beget.tech/about-us/
+11:37:53	Warning: 	HTML file (783 bytes) retransferred due to lack of cache: car-wash.leftma7t.beget.tech/?p=13
+11:37:54	Warning: 	Moved Permanently for car-wash.leftma7t.beget.tech/?p=13
+11:37:54	Warning: 	File has moved from car-wash.leftma7t.beget.tech/?p=13 to http://car-wash.leftma7t.beget.tech/works/
+11:37:54	Warning: 	HTML file (787 bytes) retransferred due to lack of cache: car-wash.leftma7t.beget.tech/?p=15
+11:37:56	Warning: 	Moved Permanently for car-wash.leftma7t.beget.tech/?p=15
+11:37:56	Warning: 	File has moved from car-wash.leftma7t.beget.tech/?p=15 to http://car-wash.leftma7t.beget.tech/contact/
+11:38:02	Warning: 	Retry after error -4 (No data (connection closed)) at link car-wash.leftma7t.beget.tech/wp-includes/js/mediaelement/mejs-controls.svg (from car-wash.leftma7t.beget.tech/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16)
+11:38:02	Warning: 	Retry after error -4 (No data (connection closed)) at link car-wash.leftma7t.beget.tech/wp-content/plugins/woocommerce/assets/fonts/star.woff (from car-wash.leftma7t.beget.tech/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=6.7.0)
+11:38:04	Warning: 	Retry after error -4 (No data (connection closed)) at link car-wash.leftma7t.beget.tech/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot (from car-wash.leftma7t.beget.tech/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=6.7.0)
+11:38:06	Warning: 	Retry after error -4 (No data (connection closed)) at link car-wash.leftma7t.beget.tech/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888 (from car-wash.leftma7t.beget.tech/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.25)
+11:38:07	Warning: 	File not parsed, looks like binary: car-wash.leftma7t.beget.tech/wp-content/plugins/revslider/public/assets/css/openhand.cur
+11:38:07	Warning: 	File not parsed, looks like binary: car-wash.leftma7t.beget.tech/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+11:38:07	Error: 	"Not Found" (404) at link car-wash.leftma7t.beget.tech/dummy.png (from car-wash.leftma7t.beget.tech/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.25)
+11:38:07	Warning: 	Moved Permanently for car-wash.leftma7t.beget.tech/origin=https://
+11:38:07	Warning: 	Redirected link is identical because of 'URL Hack' option: car-wash.leftma7t.beget.tech/origin=https:// and car-wash.leftma7t.beget.tech/origin=https:/
+11:38:07	Warning: 	File has moved from car-wash.leftma7t.beget.tech/origin=https:// to http://car-wash.leftma7t.beget.tech/origin=https:/
+11:38:07	Error: 	"Not Found" (404) at link car-wash.leftma7t.beget.tech/e (from car-wash.leftma7t.beget.tech/wp-content/themes/betheme_v26_распак/js/woocommerce.js?ver=1660897498)
+11:38:07	Error: 	"Not Found" (404) at link car-wash.leftma7t.beget.tech/a.params.url (from car-wash.leftma7t.beget.tech/wp-content/themes/betheme_v26_распак/js/woocommerce.js?ver=1660897498)
+11:38:07	Error: 	"Not Found" (404) at link car-wash.leftma7t.beget.tech/page/ (from car-wash.leftma7t.beget.tech/wp-content/themes/betheme_v26_распак/js/woocommerce.js?ver=1660897498)
+11:38:07	Error: 	"Not Found" (404) at link car-wash.leftma7t.beget.tech/about-us/e (from car-wash.leftma7t.beget.tech/wp-content/themes/betheme_v26_распак/js/woocommerce.js?ver=1660897537)
+11:38:07	Error: 	"Not Found" (404) at link car-wash.leftma7t.beget.tech/about-us/a.params.url (from car-wash.leftma7t.beget.tech/wp-content/themes/betheme_v26_распак/js/woocommerce.js?ver=1660897537)
+11:38:07	Error: 	"Not Found" (404) at link car-wash.leftma7t.beget.tech/contact/e (from car-wash.leftma7t.beget.tech/wp-content/themes/betheme_v26_распак/js/woocommerce.js?ver=1660897543)
+11:38:07	Error: 	"Not Found" (404) at link car-wash.leftma7t.beget.tech/contact/a.params.url (from car-wash.leftma7t.beget.tech/wp-content/themes/betheme_v26_распак/js/woocommerce.js?ver=1660897543)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 minutes 35 seconds : 248 links scanned, 272 files written (18648480 bytes overall) [15134733 bytes received at 15210 bytes/sec], 7026632 bytes transferred using HTTP compression in 125 files, ratio 25%, 3.0 requests per connection
+(11 errors, 38 warnings, 0 messages)
